@@ -5,7 +5,7 @@ function RestaurentChain() {
     return (
         <div className='d-flex justify-content-center align-items-center mt-5'>
             <div className='w-75'>
-                <h4 className='fw-bolder'>Top restaurant chains in Kochi</h4>
+                <h4 className='fw-bolder'>Top restaurant chains in Delhi</h4>
                 <div style={{gap:"50px",overflowY:"scroll"}} className='d-flex  align-items-center'>
                     <div className='Hotel-card'>
                         <div style={{
@@ -26,7 +26,7 @@ function RestaurentChain() {
                         </div>
                         <h5 className='mt-3'>Galaxy Family Restaurent</h5>
                         <i style={{color:"#20963a"}} className="fa-solid fa-star"></i>4.4
-                        <p style={{fontWeight:"300"}}>kerala, South indian, Chinease, North.... <br />Kakkanad</p>
+                        <p style={{fontWeight:"300"}}>CP, South indian, Chinease, North.... <br />Kakkanad</p>
                     </div>
 
                     <div className='Hotel-card'>
@@ -46,7 +46,7 @@ function RestaurentChain() {
                         }} className='Hotel-Card-img '>
                             <div className='Hotel-color'><h4 className='fw-bolder' >10% OFF UPTO ₹40</h4></div>
                         </div>
-                        <h5 className='mt-3'>Al Sheba Kuzhimandhi</h5>
+                        <h5 className='mt-3'>Chandi chock</h5>
                         <i style={{color:"#20963a"}} className="fa-solid fa-star"></i>4.1
                         <p style={{fontWeight:"300"}}>Arabian, Beverages <br />Kakkanad</p>
                     </div>
